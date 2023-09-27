@@ -5,9 +5,8 @@
 - 📫 Contate-me no email: matheus.henrique7298@gmail.com
 
 <div>
-  <a href="https://beacons.ai/MatheusFreire7">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFreire7&hide=contribs,prs"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFreire7&show_icons=true&theme=radical"/>
+
 </div>
 
 
