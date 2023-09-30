@@ -1,4 +1,4 @@
-### Olá! Eu sou o Matheus Freire👋
+### Olá! Eu sou o Matheus👋
 
 - 🔭 Hoje estudo no Colégio Técnico de Campinas, onde estou cursando Informática
 - 🌱 Estudando Python
