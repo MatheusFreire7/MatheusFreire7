@@ -4,15 +4,17 @@
 - 📫 Contate-me no email: matheus.henrique7298@gmail.com.
 
 ### 📊 Stats:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusFreire7&theme=radical&row=2&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories" />
+</p>
 <div>
   <a href="https://github.com/MatheusFreire7">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFreire7&layout=compact&langs_count=7&theme=dracula" style="display: inline-block;"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MatheusFreire7&show_icons=true&theme=radical"/>
   </a>
 </div>
-
 <div>
-  <a href="https://github.com/MatheusFreire7">
+
 
 ### 🚀 Linguagens e Ferramentas:
 
