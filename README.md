@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/MatheusFreire7">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFreire7&layout=compact&langs_count=7&theme=dracula" style="display: inline-block;"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MatheusFreire7&show_icons=true&theme=radical"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MatheusFreire7&show_icons=true&theme=radical&count_private=true"/>
   </a>
 </div>
 <div>
@@ -42,9 +42,6 @@
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
